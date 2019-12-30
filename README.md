@@ -185,6 +185,11 @@ Provides access to the vibration mechanism of the hosting device.
 
 ---
 
+## [Web Coffee API](https://iamjustjoking.com)
+Use covfefe protocol to start coffee machines.
+
+---
+
 ## [Battery Status API](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API#Browser_compatibility)
 Allows access to see the battery level of the device's battery.
 
