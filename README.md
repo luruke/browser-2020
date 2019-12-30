@@ -110,20 +110,22 @@ On iOS you can display an .usdz 3D asset using a native AR UI
 ---
 
 ## GamePad API
-Allows to use a physical gamepad
+Allows to use a physical gamepad.
 
 ---
 
 ## WebUSB API
-Allows to use a physical gamepad
+Allows to access and use peripherals connected via USB.
 
 ---
 
 ## Web Bluetooth API
+Allows to access and use bluetooth devices.
 
 ---
 
 ## Web MIDI
+Allows to access and use MIDI devices.
 
 ---
 
@@ -200,23 +202,6 @@ Provides an API to ask whether the current tab is visible or not.
 
 ## Web Speech API
 Enables web developers to incorporate speech recognition and speech synthesis.
-
----
-
-## GPU chipset
-
----
-
-## Memory
-
----
-
-## CPU Cores
-With `Navigator.hardwareConcurrency` you can get the n. of CPU cores available
-
----
-
-## navigator.connection.downlinkMax, wimax, and onchange
 
 ---
 
