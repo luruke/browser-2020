@@ -10,7 +10,7 @@ In many cases, those features aren't part of the standard yet, and only availabl
 ---
 
 ## [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
-Many OS provides light or dark color theme (notably dark mode on OSX), websites can detect the preferred color scheme.
+Many OS provides light or dark color theme (notably dark mode on macOS), websites can detect the preferred color scheme.
 
 ---
 
@@ -195,7 +195,7 @@ Allows access to see the battery level of the device's battery.
 
 ---
 
-## [Page Visibility API](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API) 
+## [Page Visibility API](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API)
 Provides an API to ask whether the current tab is visible or not.
 
 ---
