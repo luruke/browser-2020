@@ -185,7 +185,7 @@ Provides access to the vibration mechanism of the hosting device.
 
 ---
 
-## [Web Coffee API](https://iamjustjoking.com)
+## [Web Coffee API](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 Use covfefe protocol to start coffee machines.
 
 ---
