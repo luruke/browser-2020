@@ -1,4 +1,4 @@
-It's almost 2020, and browsers can do amazing stuff.  
+It's 2020, and browsers can do amazing stuff.  
 
 This repo contains a non-exhaustive list of less-known features implemented in browsers **today**.
 
