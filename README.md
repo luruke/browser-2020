@@ -2,7 +2,7 @@ It's 2020, and browsers can do amazing stuff.
 
 This repo contains a non-exhaustive list of less-known features implemented in browsers **today**.
 
-This list isn't intended for a technical audience; instead it wants to be a "I don't know we could that in a browser" list.
+This list isn't intended for a technical audience; instead it wants to be a "I didn't know we could do that in a browser!" list.
 
 In many cases, listed features aren't yet part of the standard, and may only be available on certain browsers or configurations.
 
