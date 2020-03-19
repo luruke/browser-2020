@@ -37,6 +37,11 @@ Delegate the share of URLs or files to the OS, providing share options based on 
 
 ---
 
+## [WebAudio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)  
+A high level API to allow developers to create and process audio in the browser.  
+
+---
+
 ## [Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API)
 Browsers can register push notifications. Sending later, at any moment push notifications, those notifications can contain images, buttons and inline replies.
 
