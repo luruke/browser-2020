@@ -86,6 +86,13 @@ Customize media notifications by providing metadata and actions.
 
 ---
 
+---
+
+## [WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
+Enables Web applications and sites to capture and optionally stream audio and/or video media, as well as to exchange arbitrary data between browsers without requiring an intermediary.
+
+---
+
 ## [Chrome Sender API](https://developers.google.com/cast/docs/developers)
 If chromecast is available, you can stream a video/audio to your TV / Chromecast enabled device.
 
