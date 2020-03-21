@@ -86,6 +86,16 @@ Customize media notifications by providing metadata and actions.
 
 ---
 
+## [Media Source Extensions (MSE)](https://developer.mozilla.org/en-US/docs/Web/API/Media_Source_Extensions_API)
+Create a rich streaming experience in the browser without any plugin by having full control of video and audio media stream.
+
+---
+
+## [Encrypted Media Extension (EME)](https://developer.mozilla.org/fr/docs/Web/API/Encrypted_Media_Extensions_API)
+A programming interface that allows playback of a video that is subject to a digital restrictions management scheme or more commonly know as digital right management.
+
+---
+
 ## [Chrome Sender API](https://developers.google.com/cast/docs/developers)
 If chromecast is available, you can stream a video/audio to your TV / Chromecast enabled device.
 
