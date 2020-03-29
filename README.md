@@ -147,7 +147,7 @@ Allows to use several sensors like Accelerometer, Gyroscope, AmbientLightSensor,
 ## [Credential Management API](https://developers.google.com/web/fundamentals/security/credential-management/)
 Enables to store and retrieve password credentials, it elso enables tap to sign in and automatic sign back, password sharing on multiple device and many more.
 
-<img src="images/sign.png" width="800"/>
+<img src="images/cmapi.png" width="444"/>
 
 ---
 
