@@ -37,6 +37,11 @@ Delegate the share of URLs or files to the OS, providing share options based on 
 
 ---
 
+## [WebAudio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)  
+A high level API to allow developers to create and process audio in the browser.  
+
+---
+
 ## [Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API)
 Browsers can register push notifications. Sending later, at any moment push notifications, those notifications can contain images, buttons and inline replies.
 
@@ -53,7 +58,7 @@ Example:
 
 ---
 
-## [Web/native app install banners](https://developers.google.com/web/fundamentals/app-install-banners)
+## [Web/native app install banners](https://web.dev/customize-install/)
 Display a native banner to encourage users to add the app/website on the home or to install a native app.
 
 <img src="images/banner.png" width="300"/>
@@ -86,6 +91,7 @@ Customize media notifications by providing metadata and actions.
 
 ---
 
+
 ## [Media Source Extensions (MSE)](https://developer.mozilla.org/en-US/docs/Web/API/Media_Source_Extensions_API)
 Create a rich streaming experience in the browser without any plugin by having full control of video and audio media stream.
 
@@ -93,6 +99,12 @@ Create a rich streaming experience in the browser without any plugin by having f
 
 ## [Encrypted Media Extension (EME)](https://developer.mozilla.org/fr/docs/Web/API/Encrypted_Media_Extensions_API)
 A programming interface that allows playback of a video that is subject to a digital restrictions management scheme or more commonly know as digital right management.
+
+---
+
+## [WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
+Enables Web applications and sites to capture and optionally stream audio and/or video media, as well as to exchange arbitrary data between browsers without requiring an intermediary.
+
 
 ---
 
@@ -152,7 +164,7 @@ Allows to use several sensors like Accelerometer, Gyroscope, AmbientLightSensor,
 ## [Credential Management API](https://developers.google.com/web/fundamentals/security/credential-management/)
 Enables to store and retrieve password credentials, it elso enables tap to sign in and automatic sign back, password sharing on multiple device and many more.
 
-<img src="images/sign.png" width="800"/>
+<img src="images/cmapi.png" width="444"/>
 
 ---
 
@@ -222,7 +234,7 @@ Allows access to the file system.
 
 ---
 
-## [SMS Receiver API](https://web.dev/sms-receiver-api-announcement/)
+## [WebOTP API](https://web.dev/sms-receiver-api-announcement/)
 Allow the site to read received SMS, for example for OTP and phone number validation.
 
 ---
