@@ -10,7 +10,7 @@ In many cases, listed features aren't yet part of the standard, and may only be 
 ---
 
 ## [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
-Many OSed provides light or dark color theme (notably dark mode on macOS). Websites can detect the preferred color scheme.
+Many OSes provide light or dark color theme (notably dark mode on macOS). Websites can detect the preferred color scheme.
 
 ---
 
