@@ -58,7 +58,7 @@ Example:
 
 ---
 
-## [Web/native app install banners](https://developers.google.com/web/fundamentals/app-install-banners)
+## [Web/native app install banners](https://web.dev/customize-install/)
 Display a native banner to encourage users to add the app/website on the home or to install a native app.
 
 <img src="images/banner.png" width="300"/>
