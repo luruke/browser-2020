@@ -17,7 +17,7 @@ Many OS provides light or dark color theme (notably dark mode on macOS), website
 ## [prefers-reduced-motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion)
 Similarly to dark mode, users in their OS can remove/reduce animations, we can also detect that.
 
-<img src="images/reduce.png" width="800px"/>
+<img src="images/reduce.png" width="800"/>
 
 ---
 
@@ -114,7 +114,7 @@ If chromecast is available, you can stream a video/audio to your TV/Chromecast e
 ---
 
 ## [AirPlay](https://developer.apple.com/documentation/webkitjs/adding_an_airplay_button_to_your_safari_media_controls)
-Consent to stream a media over AirPlay (like AppleTV)
+Consent to stream a media over AirPlay (like AppleTV).
 
 ---
 
