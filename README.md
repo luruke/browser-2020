@@ -48,8 +48,8 @@ Browsers can register push notifications. Sending later, at any moment push noti
 Among other features, service workers can enable offline browsing and background tasking.
 
 Example:
-- Provide a fallback when internet isn't available
-- Sending a form when internet isn't available will result in data lost, service worker can be used to save those data and send them later when an internet connection is up again
+- Provide a fallback when internet isn't available.
+- Sending a form when internet isn't available will result in data lost, service worker can be used to save those data and send them later when an internet connection is up again.
 
 ---
 
@@ -87,7 +87,7 @@ Customize media notifications by providing metadata and actions.
 ---
 
 ## [Chrome Sender API](https://developers.google.com/cast/docs/developers)
-If chromecast is available, you can stream a video/audio to your TV / Chromecast enabled device.
+If chromecast is available, you can stream a video/audio to your TV/Chromecast enabled device.
 
 ---
 
@@ -102,7 +102,7 @@ With some Apple-specific hardware (like iPhone6S+ and Magic Trackpad) you can de
 ---
 
 ## [AR Quick Look](https://developer.apple.com/augmented-reality/quick-look/)
-On iOS you can display an .usdz 3D asset using a native AR UI
+On iOS you can display an `.usdz` 3D asset using a native AR UI:
 
 <img src="images/arquick.jpg" width="400"/>
 
@@ -135,7 +135,7 @@ While in fullscreen, allows to receive keys that are normally handled by the sys
 ---
 
 ## [Generic Sensor API](https://developers.google.com/web/updates/2017/09/sensors-for-the-web)
-Allows to use several sensors like Accelerometer, Gyroscope, AmbientLightSensor, Magnetometer
+Allows to use several sensors like Accelerometer, Gyroscope, AmbientLightSensor, and Magnetometer.
 
 ---
 
@@ -147,7 +147,7 @@ Enables to store and retrieve password credentials, it elso enables tap to sign 
 ---
 
 ## [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)
-Allow to read and write text and images into the OS clipboard buffer
+Allows to read and write text and images into the OS clipboard buffer.
 
 ---
 
@@ -157,7 +157,7 @@ Gives ability to access external presentation-type displays and use them for pre
 ---
 
 ## [Screen Orientation API](https://www.w3.org/TR/screen-orientation/)
-Read and lock screen orientation
+Read and lock screen orientation.
 
 ---
 
@@ -174,7 +174,7 @@ Gives access to raw mouse movement, locks the target of mouse events to a single
 ---
 
 ## [Theme Color](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
-on Android you can customise tab color.
+On Android you can customise tab color.
 
 <img src="images/theme.png" width="300"/>
 
