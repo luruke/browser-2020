@@ -212,12 +212,12 @@ Allows access to the file system.
 
 ---
 
-## [SMS Receiver API](https://web.dev/sms-receiver-api-announcement/)
+## [Web OTP API](https://web.dev/web-otp/)
 Allow the site to read received SMS, for example for OTP and phone number validation.
 
 ---
 
-## [Contacts API](https://chromestatus.com/features/6511327140904960)
+## [Contacts API](https://web.dev/contact-picker/)
 Provide native UI to select contacts from your OS and retrieve informations.
 
 ---
