@@ -222,7 +222,7 @@ Allows access to the file system.
 
 ---
 
-## [SMS Receiver API](https://web.dev/sms-receiver-api-announcement/)
+## [WebOTP API](https://web.dev/sms-receiver-api-announcement/)
 Allow the site to read received SMS, for example for OTP and phone number validation.
 
 ---
