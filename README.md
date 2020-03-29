@@ -37,6 +37,11 @@ Delegate the share of URLs or files to the OS, providing share options based on 
 
 ---
 
+## [WebAudio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)  
+A high level API to allow developers to create and process audio in the browser.  
+
+---
+
 ## [Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API)
 Browsers can register push notifications. Sending later, at any moment push notifications, those notifications can contain images, buttons and inline replies.
 
@@ -48,12 +53,12 @@ Browsers can register push notifications. Sending later, at any moment push noti
 Among other features, service workers can enable offline browsing and background tasking.
 
 Example:
-- Provide a fallback when internet isn't available
-- Sending a form when internet isn't available will result in data lost, service worker can be used to save those data and send them later when an internet connection is up again
+- Provide a fallback when internet isn't available.
+- Sending a form when internet isn't available will result in data lost, service worker can be used to save those data and send them later when an internet connection is up again.
 
 ---
 
-## [Web/native app install banners](https://developers.google.com/web/fundamentals/app-install-banners)
+## [Web/native app install banners](https://web.dev/customize-install/)
 Display a native banner to encourage users to add the app/website on the home or to install a native app.
 
 <img src="images/banner.png" width="300"/>
@@ -86,8 +91,25 @@ Customize media notifications by providing metadata and actions.
 
 ---
 
+
+## [Media Source Extensions (MSE)](https://developer.mozilla.org/en-US/docs/Web/API/Media_Source_Extensions_API)
+Create a rich streaming experience in the browser without any plugin by having full control of video and audio media stream.
+
+---
+
+## [Encrypted Media Extension (EME)](https://developer.mozilla.org/fr/docs/Web/API/Encrypted_Media_Extensions_API)
+A programming interface that allows playback of a video that is subject to a digital restrictions management scheme or more commonly know as digital right management.
+
+---
+
+## [WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
+Enables Web applications and sites to capture and optionally stream audio and/or video media, as well as to exchange arbitrary data between browsers without requiring an intermediary.
+
+
+---
+
 ## [Chrome Sender API](https://developers.google.com/cast/docs/developers)
-If chromecast is available, you can stream a video/audio to your TV / Chromecast enabled device.
+If chromecast is available, you can stream a video/audio to your TV/Chromecast enabled device.
 
 ---
 
@@ -102,7 +124,7 @@ With some Apple-specific hardware (like iPhone6S+ and Magic Trackpad) you can de
 ---
 
 ## [AR Quick Look](https://developer.apple.com/augmented-reality/quick-look/)
-On iOS you can display an .usdz 3D asset using a native AR UI
+On iOS you can display an `.usdz` 3D asset using a native AR UI:
 
 <img src="images/arquick.jpg" width="400"/>
 
@@ -135,19 +157,19 @@ While in fullscreen, allows to receive keys that are normally handled by the sys
 ---
 
 ## [Generic Sensor API](https://developers.google.com/web/updates/2017/09/sensors-for-the-web)
-Allows to use several sensors like Accelerometer, Gyroscope, AmbientLightSensor, Magnetometer
+Allows to use several sensors like Accelerometer, Gyroscope, AmbientLightSensor, and Magnetometer.
 
 ---
 
 ## [Credential Management API](https://developers.google.com/web/fundamentals/security/credential-management/)
 Enables to store and retrieve password credentials, it elso enables tap to sign in and automatic sign back, password sharing on multiple device and many more.
 
-<img src="images/sign.png" width="800"/>
+<img src="images/cmapi.png" width="444"/>
 
 ---
 
 ## [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API)
-Allow to read and write text and images into the OS clipboard buffer
+Allows to read and write text and images into the OS clipboard buffer.
 
 ---
 
@@ -157,7 +179,7 @@ Gives ability to access external presentation-type displays and use them for pre
 ---
 
 ## [Screen Orientation API](https://www.w3.org/TR/screen-orientation/)
-Read and lock screen orientation
+Read and lock screen orientation.
 
 ---
 
@@ -174,7 +196,7 @@ Gives access to raw mouse movement, locks the target of mouse events to a single
 ---
 
 ## [Theme Color](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
-on Android you can customise tab color.
+On Android you can customise tab color.
 
 <img src="images/theme.png" width="300"/>
 
@@ -212,12 +234,12 @@ Allows access to the file system.
 
 ---
 
-## [SMS Receiver API](https://web.dev/sms-receiver-api-announcement/)
+## [Web OTP API](https://web.dev/web-otp/)
 Allow the site to read received SMS, for example for OTP and phone number validation.
 
 ---
 
-## [Contacts API](https://chromestatus.com/features/6511327140904960)
+## [Contacts API](https://web.dev/contact-picker/)
 Provide native UI to select contacts from your OS and retrieve informations.
 
 ---
