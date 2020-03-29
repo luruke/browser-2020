@@ -91,8 +91,20 @@ Customize media notifications by providing metadata and actions.
 
 ---
 
+
+## [Media Source Extensions (MSE)](https://developer.mozilla.org/en-US/docs/Web/API/Media_Source_Extensions_API)
+Create a rich streaming experience in the browser without any plugin by having full control of video and audio media stream.
+
+---
+
+## [Encrypted Media Extension (EME)](https://developer.mozilla.org/fr/docs/Web/API/Encrypted_Media_Extensions_API)
+A programming interface that allows playback of a video that is subject to a digital restrictions management scheme or more commonly know as digital right management.
+
+---
+
 ## [WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
 Enables Web applications and sites to capture and optionally stream audio and/or video media, as well as to exchange arbitrary data between browsers without requiring an intermediary.
+
 
 ---
 
