@@ -10,19 +10,19 @@ In many cases, listed features aren't yet part of the standard, and may only be 
 ---
 
 ## [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
-Many OS provides light or dark color theme (notably dark mode on macOS), websites can detect the preferred color scheme.
+Many OSes provide light or dark color theme (notably dark mode on macOS). Websites can detect the preferred color scheme.
 
 ---
 
 ## [prefers-reduced-motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion)
 Similarly to dark mode, users in their OS can remove/reduce animations, we can also detect that.
 
-<img src="images/reduce.png" width="800px"/>
+<img src="images/reduce.png" width="800"/>
 
 ---
 
 ## [Payment Request API](https://developers.google.com/web/fundamentals/payments)
-You can process payments delegating the browser. If configured, the UI will be autofilled with your credit card, shipping info and whatnot.
+Process payments via native browser UI which will be autofilled with credit card, shipping info etc.
 
 <img src="images/payments.png" width="300"/>
 <img src="images/paymentsios.png" width="300"/>
@@ -54,7 +54,7 @@ Among other features, service workers can enable offline browsing and background
 
 Example:
 - Provide a fallback when internet isn't available.
-- Sending a form when internet isn't available will result in data lost, service worker can be used to save those data and send them later when an internet connection is up again.
+- Submitting a form when internet connectivity isn't available, will result in data lost. A service worker can be used to save the data and submit it later when the internet connection is up again.
 
 ---
 
@@ -86,7 +86,6 @@ Consent to play a video and detach it from the current page, staying sticky and 
 ## [Media Session API](https://developers.google.com/web/updates/2017/02/media-session)
 Customize media notifications by providing metadata and actions.
 
-
 <img src="images/with-media-session.png" width="400"/>
 
 ---
@@ -114,7 +113,7 @@ If chromecast is available, you can stream a video/audio to your TV/Chromecast e
 ---
 
 ## [AirPlay](https://developer.apple.com/documentation/webkitjs/adding_an_airplay_button_to_your_safari_media_controls)
-Consent to stream a media over AirPlay (like AppleTV)
+Consent to stream a media over AirPlay (like AppleTV).
 
 ---
 
@@ -147,7 +146,7 @@ Allows to access and use bluetooth devices.
 ---
 
 ## [Web Locks API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Locks_API)
-Prevent display sleep and enable wake lock.
+Prevents display sleep and enables wake lock.
 
 ---
 
@@ -179,12 +178,12 @@ Gives ability to access external presentation-type displays and use them for pre
 ---
 
 ## [Screen Orientation API](https://www.w3.org/TR/screen-orientation/)
-Read and lock screen orientation.
+Reads and locks screen orientation.
 
 ---
 
 ## [getUserMedia camera selection](https://paul.kinlan.me/pixel-4xl-infrared-sensor-via-getusermedia/)
-When using camera/microphone, we can select the input source (example front or back camera). On the Pixel 4XL we can even access the infrared camera (used for face detection).
+Select the input source when using camera/microphone (e.g front or back camera). On the Pixel 4XL we can even access the infrared camera (e.g for face detection).
 
 <img src="images/ir.png" width="300"/>
 
@@ -196,7 +195,7 @@ Gives access to raw mouse movement, locks the target of mouse events to a single
 ---
 
 ## [Theme Color](https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android)
-On Android you can customise tab color.
+Customise tab color (Android only).
 
 <img src="images/theme.png" width="300"/>
 
@@ -235,12 +234,12 @@ Allows access to the file system.
 ---
 
 ## [Web OTP API](https://web.dev/web-otp/)
-Allow the site to read received SMS, for example for OTP and phone number validation.
+Allows the site to read received SMS, for example for OTP and phone number validation.
 
 ---
 
 ## [Contacts API](https://web.dev/contact-picker/)
-Provide native UI to select contacts from your OS and retrieve informations.
+Provides native UI to select contacts from your OS and retrieve informations.
 
 ---
 
