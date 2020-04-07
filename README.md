@@ -226,6 +226,11 @@ Enables web developers to incorporate speech recognition and speech synthesis.
 
 ---
 
+## [Contacts API](https://web.dev/contact-picker/)
+Provides native UI to select contacts from your OS and retrieve informations.
+
+---
+
 # Stuff under Origin Trial
 
 ## [Native File System](https://web.dev/native-file-system/)
@@ -235,11 +240,6 @@ Allows access to the file system.
 
 ## [Web OTP API](https://web.dev/web-otp/)
 Allows the site to read received SMS, for example for OTP and phone number validation.
-
----
-
-## [Contacts API](https://web.dev/contact-picker/)
-Provides native UI to select contacts from your OS and retrieve informations.
 
 ---
 
