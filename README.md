@@ -247,3 +247,9 @@ Provides native UI to select contacts from your OS and retrieve informations.
 Allows to set badge in OS in places like shelf or homescreen.
 
 ---
+
+## [Web NFC](https://web.dev/nfc/)
+Provide sites the ability to read and write to NFC tags.
+
+---
+
