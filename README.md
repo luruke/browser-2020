@@ -17,7 +17,22 @@ Many OSes provide light or dark color theme (notably dark mode on macOS). Websit
 ## [prefers-reduced-motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion)
 Similarly to dark mode, users in their OS can remove/reduce animations, we can also detect that.
 
-<img src="images/reduce.png" width="800"/>
+
+For Firefox, the `reduce` request is honoured if:
+
+- In GTK/GNOME: GNOME Tweaks > General tab (or Appearance, depending on version) > Animations is turned off.
+
+  - Alternatively, add `gtk-enable-animations = false` to the `[Settings]` block of [the GTK 3 configuration file](https://wiki.archlinux.org/index.php/GTK#Configuration).
+
+- In Plasma/KDE: System Settings > Workspace Behavior -> General Behavior > “Animation speed” is set all the way to right to “Instant”.
+- In Windows 10: Settings > Ease of Access > Display > Show animations in Windows.
+- In Windows 7: Control Panel > Ease of Access > Make the computer easier to see > Turn off all unnecessary animations (when possible).
+- In macOS: System Preferences > Accessibility > Display > Reduce motion.
+- In iOS: Settings > General > Accessibility > Reduce Motion.
+- In Android 9+: Settings > Accessibility > Remove animations.
+- In Firefox `about:config`: Add a number preference called `ui.prefersReducedMotion` and set its value to either `0` for full animation or to `1` to indicate a preference for reduced motion. Changes to this preference take effect immediately.
+
+(Lifted from [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion#user_preferences))
 
 ---
 
